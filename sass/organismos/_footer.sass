@@ -1,0 +1,80 @@
+footer
+	background:
+		color: $preto
+	
+	.footer-left
+		font-size: 15px
+		text-align: center
+		font-weight: bolder
+
+		p 
+			margin-bottom: 30px
+			color: $branco
+		h4 
+			font-family: 'fonte_negrito'
+			font-size: 15px
+			margin-bottom: 10px
+			color: $laranja
+		ul 
+			li 
+				margin-bottom: 5px
+				a 
+					font-family: 'fonte_normal'
+
+					&:hover
+						font-family: 'fonte_fina'
+						color: $azul-bebe
+						border-bottom: 2px solid $laranja
+						font-size: 25px
+						+transition(.2s)
+	.footer-middle
+		img 
+			width: 200px
+			padding: 30px
+			margin-left: 80px
+			&:hover
+				+transition(.2s)
+				width: 220px
+		p 
+			text-align: center
+			color: $couve
+
+	.footer-right
+		h4 
+			text-align: center 
+			font-weight: bold
+			margin-top: 70px
+			color: $branco
+		ul 
+			display: block 
+			margin-left: 100px
+			
+			li 
+				float: left
+				padding: 30px
+				font-size: 25px
+				
+				a 
+					color: $maracuja
+.designernote
+	background: 
+		color: $laranja
+
+	.nota 
+		text-align: center
+		margin-top: 10px 
+		margin-bottom: 10px
+		color: $branco
+		a 
+			color: $branco
+			font-weight: bold
+		.sociais
+			float: right
+			a 
+				i 
+					margin-left: 10px
+					&:hover 
+						color: $preto
+						font-size: 25px
+						+transition(.2s)
+			

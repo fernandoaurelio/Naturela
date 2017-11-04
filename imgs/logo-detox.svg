@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100mm" height="27mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10000 2700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="633" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Dolce Vita Heavy">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="D" horiz-adv-x="619"><path d="M162.168 105.501l77.9977 0c67.1668,0 124.669,23.8323 172.5,71.8337 47.5004,47.5004 71.1685,104.666 71.1685,171.833 0,67.3338 -23.6681,124.833 -71.1685,172.333 -47.8316,47.8344 -105.334,71.8337 -172.5,71.8337l-77.9977 0 0 -487.833zm-105.501 -105.501l0 698.668 183.498 0c96.5008,0 178.834,-34.1678 247.167,-102.501 68.0017,-68.3329 102,-150.666 102,-247 0,-95.9999 -33.9981,-178.333 -102,-246.666 -68.3329,-68.3329 -150.666,-102.501 -247.167,-102.501l-183.498 0z"/></glyph>
+   <glyph unicode="O" horiz-adv-x="757"><path d="M378 599.668c-69.0007,0 -128,-24.5002 -176.833,-73.3336 -48.8334,-48.8334 -73.1667,-107.668 -73.1667,-176.666 0,-69.0007 24.3332,-128 73.1667,-176.833 48.8334,-48.8334 107.833,-73.1667 176.833,-73.1667 69.0007,0 127.833,24.3332 176.666,73.1667 48.8334,48.8334 73.3336,107.833 73.3336,176.833 0,68.998 -24.5002,127.833 -73.3336,176.666 -48.8334,48.8334 -107.666,73.3336 -176.666,73.3336zm0 -606.502c-98.332,0 -182.332,34.8357 -252.001,104.502 -69.6658,69.6658 -104.499,153.666 -104.499,252.001 0,98.332 34.8329,182.165 104.499,251.831 69.6686,69.6686 153.669,104.502 252.001,104.502 98.1678,0 182.168,-34.8329 251.834,-104.502 69.6658,-69.6658 104.499,-153.499 104.499,-251.831 0,-98.3347 -34.8329,-182.335 -104.499,-252.001 -69.6658,-69.6658 -153.666,-104.502 -251.834,-104.502z"/></glyph>
+   <glyph unicode="-" horiz-adv-x="377"><path d="M29.334 313.001l322.666 0 0 105.999 -322.666 0 0 -105.999z"/></glyph>
+   <glyph unicode="T" horiz-adv-x="473"><path d="M34.1678 698.668l0 -105.835 147.998 0 0 -592.833 106.335 0 0 592.833 148 0 0 105.835 -402.333 0z"/></glyph>
+   <glyph unicode="X" horiz-adv-x="549"><path d="M421.334 698.668l-147.833 -250.835 -148 250.835 -123.002 0 209.501 -355.334 -202.166 -343.334 122.999 0 140.667 238.832 140.498 -238.832 123.169 0 -202.168 343.334 209.501 355.334 -123.166 0z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Dolce Vita Heavy";src:url("#FontID0") format(svg)}
+    .fil0 {fill:#373435}
+    .fnt0 {font-weight:bold;font-size:3653.44;font-family:'Dolce Vita Heavy'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(1.05507 0 0 1 -5459.15 1277.18)">
+   <text x="5000" y="1350"  class="fil0 fnt0">D-TOX</text>
+  </g>
+ </g>
+</svg>
