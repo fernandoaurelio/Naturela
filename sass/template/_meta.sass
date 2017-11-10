@@ -1,0 +1,55 @@
+header
+	width: 100%
+	height: 588px !important
+	background:
+		image: url('../imgs/slide-topo-meta.jpg')
+	margin-top: 45px
+	&:after
+		content: ""
+		width: 100%
+		height: 20px
+		+gradient(90deg, $verde-agua, $azul-bebe)
+		display: block 
+		margin-top: 40px
+	img 
+		margin-top: 5px
+		margin-left: 450px
+
+section.nutri
+	+make-sm-column(3)
+	
+	img 
+		width: 200px
+
+	h5
+		font-family: 'fonte_normal'
+		font-size: 20px
+	p 
+		font-family: 'fonte_normal'
+		font-size: 20px
+section.metatxt
+	margin-top: 35px
+	p 
+		text-align: justify
+		left: 0
+		font-size: 15px
+	h2
+		font-family: 'fonte_negrito'
+		color: $laranja
+		font-size: 26px
+		margin-bottom: 5px
+section.email
+	margin-top: 50px
+	text-align: center
+	span
+		button
+			background:
+				color: $couve
+			color: $branco
+			height: 70px
+			width: 80px
+			margin-top: 20px
+			+border-radius(120px)
+			&:hover
+				background:
+					color: $verde-agua
