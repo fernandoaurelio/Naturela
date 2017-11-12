@@ -1,0 +1,127 @@
+body
+	background:
+		color: $laranja
+header
+	background:
+		image: url('../imgs/slide-topo-sucos.jpg')
+	&:after
+		display: none
+small
+	text-transform: uppercase
+	font-family: 'fonte_negrito'
+section.dtox
+	background:
+		color: $couve
+	padding: 100px 0px
+	
+	img 
+		+make-sm-column(4)
+		height: 400px
+	h1
+		color: $branco
+		font-size: 70px
+		font-family: 'fonte_negrito'
+		display: block
+		margin:
+			bottom: 30px
+		
+	.ingrediente
+		display: block
+		float: right
+
+	p 
+		font-family: 'fonte_negrito'
+		font-size: 25px 
+		color: $cinza
+		margin-top: 50px
+	ul 
+		li 
+			text-transform: uppercase
+			font-weight: bold
+			color: $branco
+			line-height: 25px
+
+section.golden
+	background:
+		color: $maracuja
+	padding: 100px 0px
+	.golden,
+	.container
+		-webkit-transform: skew(0deg, 10deg) /* Chrome, Opera */
+	  -ms-transform: skew(0deg, 10deg)  /* IE */
+  transform: skew(0deg, 10deg) /* Padrão */
+	img 
+		+make-sm-column(4)
+		height: 400px
+	h1
+		color: $branco
+		font-size: 70px
+		font-family: 'fonte_negrito'
+		display: block
+		margin:
+			bottom: 30px
+		
+	.ingrediente
+		display: block
+		
+
+	p 
+		font-family: 'fonte_negrito'
+		font-size: 25px 
+		color: $cinza
+		margin-top: 50px
+	ul 
+		li 
+			text-transform: uppercase
+			font-weight: bold
+			color: $branco
+			line-height: 25px
+section.premium
+	background:
+		color: $laranja
+	padding: 150px 0px
+		top: 50px
+	.premium,
+	.container
+		-webkit-transform: skew(0deg, 10deg) /* Chrome, Opera */
+	  -ms-transform: skew(0deg, 10deg)  /* IE */
+
+	img 
+		+make-sm-column(4)
+		height: 400px
+		margin-top: 50px
+	h1
+		color: $branco
+		font-size: 70px
+		font-family: 'fonte_negrito'
+		display: block
+		margin:
+			bottom: 30px
+		margin-top: 100px
+	.ingrediente
+		display: block
+
+		
+
+	p 
+		font-family: 'fonte_negrito'
+		font-size: 25px 
+		color: $cinza
+		margin-top: 50px
+	ul 
+		li 
+			text-transform: uppercase
+			font-weight: bold
+			color: $branco
+			line-height: 25px
+.suco 
+	width: 200px
+	height: 250px
+	
+
+//Configuração para DIVS em diagonal necessarios para layout da pagina
+
+.skew 
+  -webkit-transform: skew(0deg, -10deg) translateY(-120px) /* Chrome, Opera */
+  -ms-transform: skew(0deg, -10deg) translateY(-120px) /* IE */
+  transform: skew(0deg, -10deg) translateY(-120px) /* Padrão */
